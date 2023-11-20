@@ -3,15 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Tiles
-  - Layer 1
-  - Layer 2
-  - Layer 3
-  - Layer 4
-  - Layer 5
-  - Layer 6
-  - Facing Collider
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -19,6 +11,9 @@ TagManager:
   - 
   - Water
   - UI
+  - character
+  - interactable
+  - bottom
   - 
   - 
   - 
@@ -41,26 +36,20 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - InteractiveObject
   m_SortingLayers:
+  - name: Bottom
+    uniqueID: 1161173501
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 2087213285
+  - name: Objects
+    uniqueID: 1471039481
     locked: 0
-  - name: Player
-    uniqueID: 4218774275
+  - name: ObjectsFront
+    uniqueID: 3561676937
     locked: 0
   - name: Foreground
-    uniqueID: 2610595181
-    locked: 0
-  - name: Battle Background
-    uniqueID: 3525323429
-    locked: 0
-  - name: Battle Characters
-    uniqueID: 971942665
+    uniqueID: 1304480043
     locked: 0
