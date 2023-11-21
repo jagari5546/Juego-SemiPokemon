@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   portraits: []
   lines:
-  - //SHOP KEEPER
+  - //TENDERO
   - '**'
-  - Welcome to my shop!
+  - Bienvenido a Mi Tienda!
   closingMessage:
   - //SHOP KEEPER
   - '**'

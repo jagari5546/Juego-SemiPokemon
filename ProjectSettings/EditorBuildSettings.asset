@@ -65,4 +65,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2D RPG Kit/Scenes/Tutorial Maps/Tutorial Town.unity
     guid: b8fcb41ce1e923b44b0feeae5abb32cd
+  - enabled: 1
+    path: Assets/Proyecto/Escena Prueba.unity
+    guid: 77621012f2763ba4dae2db211f858a11
+  - enabled: 1
+    path: Assets/Proyecto/Pueblo 1.unity
+    guid: 6d27ce159a94d4c4b80fe9c9cbfff902
   m_configObjects: {}
